@@ -1,0 +1,9 @@
+/build/
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Renviron
+.Rprofile
+.DS_Store
+Thumbs.db
